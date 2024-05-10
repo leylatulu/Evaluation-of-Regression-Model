@@ -1,4 +1,4 @@
-<h1 align="center">Evaluation-of-Regression-Model</h1> 
+<h2 align="center">Evaluation-of-Regression-Model</h2> 
 
 
 |No|**Years of Experience (x)**|**Salary (y)**|**Salary Prediction (y')**|**Error (y-y')**|**Squares of Error**|**Absolute Error**|
@@ -20,8 +20,6 @@
 |14|                        1|         380|                     365|            15|              225|                     15|
 
 
-
-
 ----
 
 |**Metrics**|**Results**|
@@ -29,3 +27,23 @@
 |RMSE|66.620818|
 |MSE|4438.333333|
 |MAE|54.333333|
+
+
+
+<h2 align="center">Evaluation-of-Classification-Model</h2> 
+
+### TASK 1
+|Metrics|Results|
+|---|---|
+|Accuracy|0.800000|
+|Recall|0.833333|
+|Precision|0.833333|
+|F1 Score|0.833333|
+
+### TASK 2
+|Metrics|Results|
+|---|---|
+|Accuracy|0.905000|
+|Recall|0.500000|
+|Precision|0.052632|
+|F1 Score|0.095238|
